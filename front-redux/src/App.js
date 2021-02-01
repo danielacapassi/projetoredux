@@ -54,7 +54,7 @@ return (
         <thead> 
           <tr> 
             <th scope="col">Posição</th>
-            <th scope="col">Produto</th>
+            <th scope="col">Produtos</th>
             <th scope="col">Apagar</th>
           </tr> 
         </thead>
